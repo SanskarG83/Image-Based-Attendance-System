@@ -13,12 +13,12 @@ https://github.com/SanskarG83/Image-Based-Attendance-System.git
 3. Download the LBPH model weights and place them in the models directory.
 
 
-#NOTE
+# NOTE
 
 Preferred python version : 3.8.5
 
 
-#Algorithm
+# Algorithm
 
 -- Linear Binary Pattern Histogram --
 1. Dividing the face image into small regions and computing the Local Binary Pattern (LBP) for each region.
